@@ -24,5 +24,3 @@ public class Cliente {
         return rg;
     }
 }
-
-//teste
